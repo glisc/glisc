@@ -1,167 +1,106 @@
-<div align="center">
-
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4b5563&height=220&section=header&text=9bix&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Discord%20Bots&descSize=20&descAlignY=58" 
-/>
-
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?color=bfbfbf&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Bots+para+Discord;JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Open+Source+and+Building" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Discord-Bots-2b2b2b?style=for-the-badge&logo=discord&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
-
-<br />
-<br />
-
-<h3>Links Rápidos</h3>
-
-<a href="https://github.com/9bix?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositórios-2b2b2b?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
-</div>
-
-<br />
-
-<h2>Sobre mim</h2>
-
-<p>
-Sou desenvolvedor focado em criação de bots para Discord, sistemas web, automações e soluções digitais.
-Atualmente estudo e desenvolvo projetos usando tecnologias modernas do ecossistema JavaScript, TypeScript, Python, React e Node.js.
-</p>
-
-<p>
-Tenho interesse em criar aplicações organizadas, funcionais e escaláveis, com foco em experiência visual, performance e utilidade real.
-</p>
-
-<br />
-
-<h2>Discord</h2>
+<!--
+  ZEK / GitHub Profile README
+  Perfil: https://github.com/zekapagodeiro
+  Edite livremente. Elementos dinâmicos dependem de serviços externos.
+-->
 
 <div align="center">
-
-<a href="https://discord.com/users/1524145854506860636">
-  <img 
-    width="520"
-    src="https://lanyard.cnrad.dev/api/1524145854506860636?theme=dark&bg=000000&borderRadius=16px&idleMessage=Desenvolvendo%20bots%20e%20projetos%20modernos&showDisplayName=true" 
-    alt="Discord Presence"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080B18,45:181B3E,100:6D28D9&amp;height=245&amp;section=header&amp;text=ZEK&amp;fontColor=FFFFFF&amp;fontSize=78&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20BUILDER&amp;descAlignY=56&amp;descSize=16"
+    width="100%"
+    alt="Banner Zek - Developer, Creator, Builder"
   />
-</a>
 
-</div>
-
-<br />
-
-<h2>Tecnologias</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,tailwind,mongodb,postgres,git,docker,firebase&theme=dark" />
-
-</div>
-
-<br />
-
-<h2>GitHub Stats</h2>
-
-<div align="center">
-
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=9bix&show_icons=true&theme=dark&bg_color=000000&title_color=bfbfbf&icon_color=a3a3a3&text_color=ffffff&hide_border=true" 
-/>
-
-<br />
-<br />
-
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=9bix&layout=compact&theme=dark&bg_color=000000&title_color=bfbfbf&text_color=ffffff&hide_border=true" 
-/>
-
-<br />
-<br />
-
-<img 
-  width="90%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=9bix&theme=dark&hide_border=true&background=000000&stroke=4b5563&ring=bfbfbf&fire=bfbfbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bfbfbf&sideLabels=bfbfbf&dates=a3a3a3" 
-/>
-
-<br />
-<br />
-
-<img 
-  width="95%" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=9bix&theme=github-compact&hide_border=true&bg_color=000000&line=bfbfbf&color=ffffff&point=a3a3a3&area=true&area_color=4b5563&custom_title=Gráfico%20de%20Contribuições" 
-/>
-
-</div>
-
-<br />
-
-<h2>Resumo do perfil</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9bix&theme=github_dark" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9bix&theme=github_dark" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9bix&theme=github_dark" />
-
-</div>
-
-<br />
-
-<h2>Contador de visitas</h2>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=9bix&style=for-the-badge&color=grey" />
-
-</div>
-
-<br />
-
-<h2>Snake Contribution</h2>
-
-<div align="center">
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/9bix/9bix/output/github-contribution-grid-snake-dark.svg" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3500&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=46&amp;lines=Desenvolvimento+Web+%26+UI%2FUX;Bots+e+aplicacoes+para+Discord;Automacao+%E2%80%A2+Criatividade+%E2%80%A2+Codigo"
+    alt="Apresentação animada das áreas de atuação"
   />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/9bix/9bix/output/github-contribution-grid-snake.svg" 
-  />
-  <img 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/9bix/9bix/output/github-contribution-grid-snake.svg" 
-  />
-</picture>
 
+  <p>
+    <a href="https://github.com/zekapagodeiro?tab=repositories">
+      <img src="https://img.shields.io/badge/PROJETOS-VER%20REPOSIT%C3%93RIOS-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver projetos" />
+    </a>
+    <a href="https://github.com/zekapagodeiro">
+      <img src="https://img.shields.io/badge/GITHUB-zekapagodeiro-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Perfil no GitHub" />
+    </a>
+  </p>
 </div>
 
-<br />
+---
+
+### `01 / sobre mim`
+
+Sou **Zek**, desenvolvedor focado em construir experiências digitais com **identidade visual, organização e funcionalidade**. Trabalho com desenvolvimento web, aplicações e bots para Discord, automações e personalização de comunidades.
+
+```text
+> whoami
+  zek / developer
+
+> focus
+  web development · discord applications · automation · ui/ux
+
+> philosophy
+  menos ruído. mais propósito.
+```
+
+### `02 / o que eu faço`
+
+- **Web & interfaces** — sites, portfólios e experiências digitais modernas.
+- **Discord development** — bots, aplicações, integrações e automações.
+- **Comunidades** — administração, configuração e personalização de servidores Discord.
+- **Lua & Roblox** — experimentação e desenvolvimento de scripts.
+
+### `03 / tecnologias & ferramentas`
 
 <div align="center">
-
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:000000&height=120&section=footer" 
-/>
-
+  <img
+    src="https://skillicons.dev/icons?i=js,html,css,lua,git,github,cloudflare,discord,workers&amp;theme=dark&amp;perline=9"
+    alt="JavaScript, HTML, CSS, Lua, Git, GitHub, Cloudflare, Discord e Workers"
+  />
 </div>
+
+### `04 / atividade no GitHub`
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=zekapagodeiro&amp;show_icons=true&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=CBD5E1&amp;icon_color=8B5CF6&amp;bg_color=0B1020"
+    height="170"
+    alt="Estatísticas públicas de Zek no GitHub"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zekapagodeiro&amp;layout=compact&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=CBD5E1&amp;bg_color=0B1020"
+    height="170"
+    alt="Linguagens usadas nos repositórios públicos"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=zekapagodeiro&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1020&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakLabel=A78BFA"
+    alt="Sequência de contribuições públicas de Zek"
+  />
+</div>
+
+### `05 / explorar projetos`
+
+Nem tudo cabe em uma apresentação. O código, as experiências e os projetos publicados estão disponíveis diretamente nos meus repositórios.
+
+<div align="center">
+  <a href="https://github.com/zekapagodeiro?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORAR%20PROJETOS-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar repositórios públicos" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Projetando ideias. Desenvolvendo soluções. Refinando cada detalhe.</sub>
+  <br />
+  <sub>© Zek • <a href="https://github.com/zekapagodeiro">github.com/zekapagodeiro</a></sub>
+</div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080B18,45:181B3E,100:6D28D9&amp;height=100&amp;section=footer"
+  width="100%"
+  alt="Rodapé em gradiente"
+/>
