@@ -1,7 +1,7 @@
 
 ## About Me
 
-I'm zek, a developer focused on building websites, Discord applications, and automation tools. I care about clean interfaces, reliable functionality, and practical solutions.
+I'm Zek, a developer focused on building websites, Discord applications, and automation tools. I care about clean interfaces, reliable functionality, and practical solutions.
 
 I also work with Discord server administration and customization, combining development and community management to create better digital experiences.
 
@@ -20,6 +20,6 @@ I also work with Discord server administration and customization, combining deve
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=glisc&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=glisc&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=glisc&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glisc&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
 </div>
