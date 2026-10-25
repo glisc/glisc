@@ -20,6 +20,6 @@ I also work with Discord server administration and customization, combining deve
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=glisc&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glisc&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=glisc&show_icons=true&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=glisc&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
